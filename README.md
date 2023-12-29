@@ -1,1 +1,2 @@
 # Wine-Quality-Prediction
+Wine Quality Prediction: I applied supervised learning techniques,to classify wine into different good and bad quality categories based on their physicochemical properties. I also performed exploratory data analysis and feature engineering to improve the model performance, Trained and Test the Data and Compared there Values and Checking accuracy of model,Done individual prediction.
